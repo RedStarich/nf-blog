@@ -2,7 +2,7 @@ import React from 'react'
 
 function blog() {
   return (
-    <div>blog</div>
+    <div className='min-h-[600px]'>blog</div>
   )
 }
 
