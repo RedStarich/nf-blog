@@ -9,8 +9,9 @@ export default function Home() {
     {/* <div className="mt-10 min-w-[500px]">
       <input className="px-[25px] py-[20px] rounded-xl" placeholder="Name"/>
       <input className="px-[25px] py-[20px] rounded-xl" placeholder="Phone"/>
-      <button className="px-[25px] py-[20px] rounded-xl w-[350px] bg-[#E01424] font-medium text-white mx-auto">Get consultation</button>
     </div> */}
+
+  <button className="px-[25px] py-[15px] rounded-xl w-[350px] bg-[#E01424] font-medium text-white mx-auto">Get Started</button>
 
 
   </main>
